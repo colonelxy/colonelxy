@@ -1,4 +1,4 @@
-[![MasterHead]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQrbEoctzI0JdkEsIi8mApw2V-zFIr-E8ytScFgFKaFkgk1p9GmNbuuEnflaRXP7aJubk&usqp=CAU)](https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif)]
+[![MasterHead]([(https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif)]
 
 <h1 align="center">Hi 👋, I'm Harold</h1>
 <h3 align="center">A passionate AWS Cloud Architect and frontend developer</h3>
