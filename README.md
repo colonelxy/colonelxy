@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Nutrofitness**
 
-- 🌱 I’m currently learning **React, DevOps, Solidity**
+- 🌱 I’m currently learning **React, DevOps, Python, Solidity**
 
 - 🤝 I’m looking for help with **Blockchain developing**
 
@@ -20,7 +20,7 @@
 
 - 📫 Want to reach out? **harold2@proton.me**
 
-- 📄 Know about my experiences [linkedin.com/colonelxy](linkedin.com/colonelxy)
+- 📄 Know about my experiences [My Profile](https://harold-portfolio.netlify.app)
 
 - ⚡ Fun fact **I use React though I rarely react**
 
