@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **Nutrofitness**
 
-- 🌱 I’m currently learning **React, DevOps**
+- 🌱 I’m currently learning **React, DevOps, Solidity**
 
-- 🤝 I’m looking for help with **Nutrofitness**
+- 🤝 I’m looking for help with **Blockchain developing**
 
 - 📝 I regularly write articles on LinkedIn [linkedin.com/colonelxy](linkedin.com/colonelxy)
 
