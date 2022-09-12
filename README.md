@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/colonelxy" target="blank"><img src="https://img.shields.io/twitter/follow/colonelxy?logo=twitter&style=for-the-badge" alt="colonelxy" /></a> </p>
 
-- 🔭 I’m currently working on **Nutrofitness**
+- 🔭 I’m currently working on **TranscriptEd**
 
-- 🌱 I’m currently learning **React, DevOps, Python, Solidity**
+- 🌱 I’m currently learning **React, DevOps, Python, Solidity, Blockchain**
 
 - 🤝 I’m looking for help with **Blockchain developing**
 
