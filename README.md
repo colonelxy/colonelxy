@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **TranscriptEd**
 
-- 🌱 I’m currently learning **React, DevOps, Python, Solidity, Blockchain**
+- 🌱 I’m currently learning **React, Solidity, Blockchain**
 
-- 🤝 I’m looking for help with **Blockchain developing**
+- 🤝 I’m looking for help with **Blockchain development**
 
 - 📝 I regularly write articles on LinkedIn [linkedin.com/colonelxy](linkedin.com/colonelxy)
 
