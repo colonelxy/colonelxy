@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/colonelxy" target="blank"><img src="https://img.shields.io/twitter/follow/colonelxy?logo=twitter&style=for-the-badge" alt="colonelxy" /></a> </p>
 
-- 🔭 I’m currently working on **TranscriptEd**
+- 🔭 I’m currently working on **Kadogoo ERP**
 
 - 🌱 I’m currently learning **React, Solidity, Blockchain**
 
