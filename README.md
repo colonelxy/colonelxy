@@ -1,22 +1,22 @@
 ![MasterHead](https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif)
 
 <h1 align="center">Hi 👋, I'm Harold</h1>
-<h3 align="center">A passionate AWS Cloud Architect and Web3 developer</h3>
+<h3 align="center">A passionate Web3 developer and AWS Cloud Architect</h3>
 <img align="right" alt="Coding me" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ0Keq98vOxMAIGZxXEeu8QNOM4UCxwwsPGg&usqp=CAU"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=colonelxy&label=Profile%20views&color=0e75b6&style=flat" alt="colonelxy" /> </p>
 
 <p align="left"> <a href="https://twitter.com/colonelxy" target="blank"><img src="https://img.shields.io/twitter/follow/colonelxy?logo=twitter&style=for-the-badge" alt="colonelxy" /></a> </p>
 
-- 🔭 I’m currently working on **ERP Mashariki**
+- 🔭 I’m currently working on **TranscriptED**
 
-- 🌱 I’m currently learning **React, Next, Solidity, Blockchain**
+- 🌱 I’m currently learning **React, Next JS, Solidity, Foundry, Blockchain**
 
-- 🤝 I’m looking for help with **Blockchain development**
+- 🤝 I’m looking for help with **Blockchain development (NFT)**
 
 - 📝 I regularly write articles on LinkedIn [linkedin.com/colonelxy](linkedin.com/colonelxy)
 
-- 💬 Give me challenging projects on **AWS Solutions Architecting**
+- 💬 Give me challenging projects on **Web3 Security**
 
 - 📫 Want to reach out? **harold2@proton.me**
 
