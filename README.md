@@ -1,7 +1,7 @@
 ![MasterHead](https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif)
 
 <h1 align="center">Hi 👋, I'm Harold</h1>
-<h3 align="center">A passionate Web3 developer and Security Researcher</h3>
+<h3 align="center">A passionate Smart Contract Developer and Security Researcher</h3>
 <img align="right" alt="Coding me" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ0Keq98vOxMAIGZxXEeu8QNOM4UCxwwsPGg&usqp=CAU"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=colonelxy&label=Profile%20views&color=0e75b6&style=flat" alt="colonelxy" /> </p>
